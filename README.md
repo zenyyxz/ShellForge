@@ -25,8 +25,9 @@ Shell Forge is a powerful and versatile reverse shell tool designed for ethical 
    cd shell-forge
 
 2.Install Dependencies:
--Ensure Python 3.x is installed.
--Install the required libraries.
+
+Ensure Python 3.x is installed.
+Install the required libraries.
    ```bash
    pip install -r requirements.txt
    ```
