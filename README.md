@@ -32,7 +32,8 @@ Install the required libraries.
    pip install -r requirements.txt
    ```
 3.Set Up Metasploit:
-   Ensure Metasploit Framework is installed and accessible from the terminal.
+   
+Ensure Metasploit Framework is installed and accessible from the terminal.
 
 ---
 
